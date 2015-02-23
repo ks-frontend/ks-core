@@ -8,4 +8,4 @@ The core.js is a small lib which pricipally does only one thing. It compares a g
 ```console
 $ bower install ks-core
 ```
-For more information have a look at the doc : [Doc](/doc/index.md)
+For more information have a look at the doc : [Doc](/lib/doc/index.md)
