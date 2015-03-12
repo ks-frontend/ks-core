@@ -1,5 +1,5 @@
 /*!
- * ks-core - v0.0.0 - 2015-03-02
+ * ks-core - v0.0.2 - 2015-03-11
  * https://github.com/ks-frontend/ks-core
  * Copyright (c) 2015 
  * Licensed ISC
@@ -14,14 +14,16 @@
 // 
 // Each strategy is a plugin. Be sure to have the plugin in case
 // of undefined function.
-
+/*
+Example of use
 actionRules = ["max", "min", "maxlength", "required",
                    "email", "digits", "currency", "date", "time", "firstCapital", "toggleSlide"];
 ks_init('#search', actionRules);
 ks_init('.breadcrumb', actionRules);
 ks_init('.toggleSlide', actionRules);
+*/
 
-//-------------------
+actionRules = [];
 // Core.js ------------------------------------------
 
 /**

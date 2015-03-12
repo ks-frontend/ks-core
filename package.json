@@ -1,6 +1,6 @@
 {
   "name": "ks-core",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "The core components of the iknsa-frontend-framework which consists mainly of a jquery factory and scss variables and mixins from which other plugins or your own scss/js extends",
   "main": "dist/ks-core.min.js",
   "scripts": {

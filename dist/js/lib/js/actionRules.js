@@ -8,9 +8,13 @@
 // 
 // Each strategy is a plugin. Be sure to have the plugin in case
 // of undefined function.
-
+/*
+Example of use
 actionRules = ["max", "min", "maxlength", "required",
                    "email", "digits", "currency", "date", "time", "firstCapital", "toggleSlide"];
 ks_init('#search', actionRules);
 ks_init('.breadcrumb', actionRules);
 ks_init('.toggleSlide', actionRules);
+*/
+
+actionRules = [];
